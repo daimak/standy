@@ -1,1 +1,2 @@
-cd C:\Work\standy\standy
+print("Cursor + Git = ❤️")
+print("Работаю из ветки dev")
