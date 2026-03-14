@@ -1,0 +1,1 @@
+cd C:\Work\standy\standy
